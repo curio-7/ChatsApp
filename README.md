@@ -26,13 +26,13 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/curio-7/ChatsApp
 ```
 
 Go to the project directory
 
 ```bash
-  cd mern-chat-app
+  cd ChatsApp
 ```
 
 Install dependencies
@@ -42,7 +42,7 @@ Install dependencies
 ```
 
 ```bash
-  cd frontend/
+  cd front-end/
   npm install
 ```
 
@@ -55,7 +55,7 @@ Start the Client
 
 ```bash
   //open now terminal
-  cd frontend
+  cd front-end
   npm start
 ```
 
